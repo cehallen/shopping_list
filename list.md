@@ -8,3 +8,4 @@
 - [ ] Lettuce
 - [ ] Chicken
 - [ ] Milk
+- [ ] Beer (lots)
